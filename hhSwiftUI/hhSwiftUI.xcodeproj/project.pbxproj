@@ -21,6 +21,7 @@
 		69BD7F612D0D6A0E00839C35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69BD7F642D0D6A0E00839C35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		69BD7F6B2D11602300839C35 /* ResponseData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseData.swift; sourceTree = "<group>"; };
+		69BD7F6D2D1209ED00839C35 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		69BD7F512D0D6A0C00839C35 = {
 			isa = PBXGroup;
 			children = (
+				69BD7F6D2D1209ED00839C35 /* README.md */,
 				69BD7F5C2D0D6A0C00839C35 /* hhSwiftUI */,
 				69BD7F5B2D0D6A0C00839C35 /* Products */,
 			);
